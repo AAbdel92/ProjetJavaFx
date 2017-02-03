@@ -2,6 +2,8 @@ package fr.laposte.defi5;
 
 
 
+import java.util.Scanner;
+
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -165,4 +167,6 @@ public class Base5 extends Application {
 		primaryStage.show();		
 	}
 
+	
+	
 }
